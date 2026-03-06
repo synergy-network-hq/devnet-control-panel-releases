@@ -68,7 +68,7 @@ If you already have the Control Center installed, **you don't need to come back 
 **"The app is damaged and can't be opened" (Mac)**
 Open Terminal and run:
 ```
-xattr -cr /Applications/Synergy\ Devnet\ Control\ Center.app
+xattr -cr /Applications/Synergy\ Devnet\ Control\ Panel.app
 ```
 Then try opening the app again.
 
